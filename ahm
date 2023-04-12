@@ -94,7 +94,7 @@ https://v3.siar.us/surabayatv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://i.imgur.com/yvgbxTz.png",SCTV
 #http://nonton.wap.sh/id/009.m3u8
-http://mpwtv.my.id/vidioye/204-sctv.m3u8
+http://tvnid.x10.mx/1/master-1.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://i.imgur.com/si1SO98.jpg",Indosiar
 #https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&amp;b=204991a99793a98926d2&amp;c=8f5ffddd6e9165aa1117
